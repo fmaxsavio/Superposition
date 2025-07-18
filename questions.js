@@ -41,7 +41,7 @@ const questions = [
   },
   {
     q: "The total current through the 10 Ohm resistor is?",
-    options: ["0.4", "0.6", "0.8", "1.0"],
+    options: ["0.4", "0.6", "2.0", "1.0"],
     answer: 2,
   },
   {
