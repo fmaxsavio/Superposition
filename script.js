@@ -301,7 +301,7 @@ const logoURL = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOoAAADpCAYAAAAqA
   // Add player information
   doc.setFontSize(12);
   doc.text(20, 20, `Student Details: ${playerName} ${playerName1}`);
-  doc.text(20, 27, "Subject Details: 19EE401 Electromagnetic Theory");
+  doc.text(20, 27, "Subject Details: Electric Circuit Analysis");
   doc.text(20, 34, "Assessment & CO : Skill Assessment | CO1");
   doc.text(20, 41, `Time played: ${timePlayed} seconds`);
   doc.text(20, 48, "Course Trainer: Mr.F.Max Savio, AP/EEE");
